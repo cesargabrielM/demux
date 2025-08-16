@@ -7,9 +7,9 @@
 <p>Consiste em um sensor de distância em que dependêndo da distância acente um LED em específico. Cada LED tem sua própria faixa de distância e quando o objeto está muito longe, todos os LEDs são apagados.</p>
 <h2>Contribuidores do Projeto:</h2>
 <p>César Gabriel Meirelles (https://github.com/cesargabrielM)</p>
-<p>Alexandre Choratto()</p>
+<p>Alexandre Choratto(https://github.com/AlexandreChoratto)</p>
 <p>Lucas Lima()</p>
-<p></p>
+<p>João Lessa()</p>
 
 <h1>Como foi construído?</h1>
 <h3>Peças utilizadas:</h3>
