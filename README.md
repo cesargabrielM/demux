@@ -9,7 +9,7 @@
 <p>César Gabriel Meirelles (https://github.com/cesargabrielM)</p>
 <p>Alexandre Choratto(https://github.com/AlexandreChoratto)</p>
 <p>Lucas Lima()</p>
-<p>João Lessa()</p>
+<p>João Lessa(https://github.com/jowne)</p>
 
 <h1>Como foi construído?</h1>
 <h3>Peças utilizadas:</h3>
